@@ -2,8 +2,10 @@ import React from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import About from './components/About';
+import AboutPage from './components/AboutPage';
 import Programs from './components/Programs';
 import News from './components/News';
+import ContactPage from './components/ContactPage';
 import Footer from './components/Footer';
 
 function App() {
@@ -12,8 +14,10 @@ function App() {
       <Header />
       <Hero />
       <About />
+      <AboutPage />
       <Programs />
       <News />
+      <ContactPage />
       <Footer />
     </div>
   );
