@@ -211,7 +211,7 @@ const Footer = () => {
                 © 2025 University of Engineering & Technology, Mardan. All rights reserved.
               </p>
               <p className="text-gray-500 dark:text-gray-500 text-xs">
-                Designed & Developed with ❤️ for Academic Excellence
+                Designed & Developed By Abuzar Khan
               </p>
             </div>
           </div>
