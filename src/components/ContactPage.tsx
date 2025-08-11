@@ -1,7 +1,7 @@
 import React, { useRef, useEffect } from 'react';
 import { motion, useInView } from 'framer-motion';
 import { gsap } from 'gsap';
-import { Phone, Mail, MapPin, Clock, User, Building, Fax, Globe } from 'lucide-react';
+import { Phone, Mail, MapPin, Clock, User, Building, Fan as Fax, Globe } from 'lucide-react';
 
 const ContactPage = () => {
   const containerRef = useRef<HTMLDivElement>(null);
